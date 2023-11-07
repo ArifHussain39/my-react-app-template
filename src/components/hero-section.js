@@ -1,4 +1,4 @@
-export function HeroSection() {
+export const  HeroSection = () => {
     return (
         <div style={heroStyle}>
             <h1>Welcome to Our Website</h1>
